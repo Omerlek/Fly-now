@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "3197699278",
+    "project_id": "fly-now-a6b97",
+    "storage_bucket": "fly-now-a6b97.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3197699278:android:73a4840cc87773fa713c9f",
+        "android_client_info": {
+          "package_name": "com.example.flynow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ9d46aJye9LnCla9NvRM-mhuJXOvcn_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

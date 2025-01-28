@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fly Now</string>
+    <string name="fly_now">Fly now</string>
+    <string name="Intro_title">Fly Smarter, Fly Now!</string>
+    <string name="Intro_subtitle">Effortless ticketing and streamlined boarding: making your journey smoother,\n one flight at a time.</string>
+    <string name="get_started">Get Started</string>
+    <string name="passengers">Passengers</string>
+    <string name="search_flights">Search Flights</string>
+    <string name="from">From</string>
+    <string name="to">to</string>
+    <string name="toShort">to</string>
+</resources>
